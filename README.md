@@ -35,7 +35,7 @@
 </div>
 <div align="center">
   <a href="https://stackoverflow.com/users/13577063/hamza-usman-ghani">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=13577063&layout=compact&theme=dark" alt="My Stack Overflow Stats", width="500" height="200">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=13577063&layout=compact&theme=dark" alt="My Stack Overflow Stats", width="400" height="160">
   </a>
 </div>
 
