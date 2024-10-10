@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/hamzausmanghani">
-    <img src="https://github-readme-stats.vercel.app/api?username=hamzausmanghani&show_icons=true&count_private=true&hide=issues&theme=tokyonight&include_all_commits=true" alt="My Github Stats", width="500" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSafwan456&show_icons=true&count_private=true&hide=issues&theme=tokyonight&include_all_commits=true" alt="My Github Stats", width="500" height="200">
   </a>
 </div>
 
